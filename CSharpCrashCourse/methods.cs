@@ -25,14 +25,14 @@ class Method
 {
     static void Main(string[] arg)
     {
-        var numbers = new List<int> { 1, 2, 3, 4, 5 };
+        int[] numbers = { 1, 2, 3, 4, 5 };
         Square(numbers);
     }
-    static void Square(List<int> numbers)
-    {
-        foreach (int i in numbers)
+    static void Square(int[] num)
+    {  
+       foreach (int i in num)
         {
-            Console.WriteLine($"The sqaure of {i} is {i * i}");
-        }
+            Console.WriteLine($"The square of {i} is  {i * i}");
+        } 
     }
 }
