@@ -45,6 +45,14 @@ class Person
 
     public Person(int age, string name)
     {
+        if (age < 0)
+        {
+            throw new ArgumentException("values cannot be null");
+        }
+        if (string.IsNullOrWhiteSpace(name))
+        {
+            throw new ArgumentException("name cannot be empty");
+        }
         this.age = age;
         this.name = name;
     }
