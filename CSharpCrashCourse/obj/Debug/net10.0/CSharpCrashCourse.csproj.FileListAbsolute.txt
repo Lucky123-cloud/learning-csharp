@@ -12,3 +12,4 @@ C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\refint
 C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.pdb
 C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.genruntimeconfig.cache
 C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\ref\CSharpCrashCourse.dll
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.sourcelink.json
