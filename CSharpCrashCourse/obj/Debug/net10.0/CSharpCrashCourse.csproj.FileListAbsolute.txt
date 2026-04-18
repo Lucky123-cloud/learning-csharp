@@ -1,0 +1,14 @@
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\bin\Debug\net10.0\CSharpCrashCourse.exe
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\bin\Debug\net10.0\CSharpCrashCourse.deps.json
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\bin\Debug\net10.0\CSharpCrashCourse.runtimeconfig.json
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\bin\Debug\net10.0\CSharpCrashCourse.dll
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\bin\Debug\net10.0\CSharpCrashCourse.pdb
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.AssemblyInfoInputs.cache
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.AssemblyInfo.cs
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.csproj.CoreCompileInputs.cache
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.dll
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\refint\CSharpCrashCourse.dll
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.pdb
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\CSharpCrashCourse.genruntimeconfig.cache
+C:\Users\Lucky Baraka\learning-csharp\CSharpCrashCourse\obj\Debug\net10.0\ref\CSharpCrashCourse.dll
